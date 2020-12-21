@@ -1,0 +1,17 @@
+{
+  "name": "conf-automatico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NegoPrograma/conf-automatico.git",
+  "author": "Isaac Souza <isaacsms@id.uff.br>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-adblocker": "^2.11.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.2.14",
+    "puppeteer-extra-plugin-stealth": "^2.6.1",
+    "puppeteer-extra-plugin-user-data-dir": "^2.2.7",
+    "puppeteer-extra-plugin-user-preferences": "^2.2.7"
+  }
+}

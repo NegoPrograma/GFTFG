@@ -1,0 +1,10 @@
+{
+    "startingPage": 0,
+    "facebookEmail": "yourBotEmail@mail.com",
+    "facebookPassword":"yourBotPassword",
+    "googleEmail": "formsAdminEmail@mail.com",
+    "googlePassword":"formsADminPassword",
+    "firstResponse": true,
+    "postURL": "https://www.facebook.com/groups/*****group-id*******/permalink/******post-id*******/",
+    "formURL": "https://docs.google.com/forms/d/*****form-id********/edit"
+}
